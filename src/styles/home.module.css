@@ -1,0 +1,28 @@
+.home h1 {
+    text-align: center;
+  }
+.home button {
+  padding: 7px;
+  color: white;
+  background: green;
+ }
+  .addtask {
+    margin-right: 80px;
+    width: 74%;
+    outline: none;
+    font-size: 15px;
+    padding: 11px;
+    border: 1px solid silver;
+    margin-bottom: 3px;
+    border-radius: 5px;
+  }
+  .totaltasks {
+    margin-top: 5px;
+    margin-bottom: 7px;
+    font-size: 17px;
+    display: inline-block;
+    margin-left: 2px;
+    color: grey;
+    font-weight: 500;
+  }
+   
